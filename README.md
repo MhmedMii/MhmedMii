@@ -25,7 +25,7 @@ My experience spans **AI-powered applications, backend engineering, workflow aut
 
 ### 💼 Selected Experience
 
-**Navita Edu — IT Officer**
+**Navita Edu — Junior Software Engineer**
 
 Developing web applications to improve customer operations, service delivery, and performance monitoring.
 
